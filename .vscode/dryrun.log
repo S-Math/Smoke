@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sylvain/VScode-workspace/smoke'
+make: Leaving directory '/home/sylvain/VScode-workspace/smoke'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

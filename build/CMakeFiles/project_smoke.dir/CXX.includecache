@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sylvain/VScode-workspace/smoke/main.cpp
+iostream
+-
+smoke.h
+/home/sylvain/VScode-workspace/smoke/smoke.h
+
+/home/sylvain/VScode-workspace/smoke/smoke.h
+iostream
+-
+vector
+-
+cstdlib
+-
+Eigen/Dense
+-
+glm/glm.hpp
+-
+ctime
+-
+random
+-
+chrono
+-
+

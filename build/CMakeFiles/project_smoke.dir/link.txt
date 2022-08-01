@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/project_smoke.dir/main.cpp.o  -o project_smoke 

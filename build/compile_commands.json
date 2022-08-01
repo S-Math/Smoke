@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sylvain/VScode-workspace/smoke/build",
+  "command": "/bin/g++-9    -g   -O3 -o CMakeFiles/project_smoke.dir/main.cpp.o -c /home/sylvain/VScode-workspace/smoke/main.cpp",
+  "file": "/home/sylvain/VScode-workspace/smoke/main.cpp"
+}
+]
